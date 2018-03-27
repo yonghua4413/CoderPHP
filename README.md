@@ -1,2 +1,2 @@
 # CoderPHP
-CoderPHP
+CoderPHP Framework

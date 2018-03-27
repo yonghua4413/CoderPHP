@@ -1,0 +1,7 @@
+{
+    "name": "coderphp freamwork",
+    "description": "一个优雅、简洁、快速的php框架",
+    "require": {
+        "php": "^5.5.0 || ^7.0"
+    }
+}

@@ -1,0 +1,13 @@
+*uploads*
+Uploads/*
+*cache*
+*development*
+*production*
+*Test*
+*test*
+*vendor*
+composer.lock
+.project
+.buildpath
+.settings/*
+*logs*
